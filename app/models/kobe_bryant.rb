@@ -1,0 +1,2 @@
+class KobeBryant < ApplicationRecord
+end
